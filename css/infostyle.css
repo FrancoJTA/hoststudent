@@ -1,0 +1,49 @@
+.content{
+    color: white;
+}
+
+p{
+    font-size: 30px;
+    text-align: justify;
+}
+
+#desc{
+    display: flex;
+    align-items: center;
+}
+
+
+.destext{
+    width: 50%;
+}
+
+.destext h1{
+    padding-bottom: 5%;
+}
+
+#desc img{
+    float: right;
+    width: 40%;
+    margin-left: 5%;
+}
+
+#obj h1{
+    text-align: center;
+    padding-top: 10%;
+    padding-bottom: 3%;
+}
+
+.eleobj{
+    display: flex;
+}
+
+.ob{
+    border: 1px;
+    border-color: rgb(32, 32, 32);
+    background-color: rgb(32, 32, 32);
+    border-style: solid;
+    border-radius: 40px;
+    width: 30%;
+    margin-right: 50px;
+    padding: 3%;
+}

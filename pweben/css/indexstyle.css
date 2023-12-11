@@ -1,0 +1,23 @@
+
+.primero{
+    display: flex;
+    color: white;
+}
+.intro{
+    width: 50%;
+    margin-top: 70px;
+}
+.intro h1{
+    font-size: 90px;
+}
+
+.intro h2{
+    font-size: 40px;
+}
+
+.primero img{
+    float: right;
+    width: 30%;
+    height: auto;
+    margin-left: 21%;
+}
